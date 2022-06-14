@@ -6,8 +6,7 @@
 </h2>
 
 <div align= "left">
-
-  <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little bit about me...  </h3>
+<h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little bit about me...  </h3>
 
 ```javascript
 const aman = {
@@ -34,27 +33,34 @@ const aman = {
 </div>  
 
 
-### Let's Connect
+<div align="left">
+    <h3>Let's Connect</h3>
+    <div>
+        <a href="https://linkedin.com/in/amandeep-singh-3105b9207">
+            <img align="left" width="26px"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+        </a>
+        <a href="https://www.leetcode.com/ama29n">
+            <img align="left" width="26px"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
+        </a>
+        <a href="mailto:ama3149n@gmail.com">
+            <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+        </a>
+        <a href="https://instagram.com/ama29n">
+            <img align="left" width="26px"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+        </a>
+    </div>
+</div>
 
-<a href="https://linkedin.com/in/amandeep-singh-3105b9207">
-  <img align = "left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  />
-</a>
-  <a href="https://www.leetcode.com/ama29n">
-  <img align = "left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
-</a>
-<a href="mailto:ama3149n@gmail.com">
-  <img align = "left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
-<a href="https://instagram.com/ama29n">
-  <img align = "left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
 
 <br>
 <br>
 
-### Languages & Tools
 
-<div align="left" display="flex"> 
+<div> 
+<h3>Languages and Tools</h3>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
