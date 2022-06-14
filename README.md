@@ -6,7 +6,6 @@
 </h2>
 
 <div align= "left">
-  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
 
 ```javascript
@@ -34,7 +33,7 @@ const aman = {
 </div>  
 
 
-### Connect with me 
+## Connect with me 
 
 <a href="https://linkedin.com/in/amandeep-singh-3105b9207">
   <img align = "left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  />
@@ -43,7 +42,7 @@ const aman = {
   <img align = "left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
 </a>
 <a href="mailto:ama3149n@gmail.com">
-  <img align = "left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align = "left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://instagram.com/ama29n">
   <img align = "left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
@@ -51,7 +50,9 @@ const aman = {
 
 <br>
 
-### Languages & Tools
+
+
+## Languages & Tools
 
 <div align="left" display="flex"> 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
