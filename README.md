@@ -33,7 +33,7 @@ const aman = {
 </div>  
 
 
-## Connect with me 
+### Let's Connect
 
 <a href="https://linkedin.com/in/amandeep-singh-3105b9207">
   <img align = "left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  />
@@ -49,10 +49,9 @@ const aman = {
 </a>
 
 <br>
+<br>
 
-
-
-## Languages & Tools
+### Languages & Tools
 
 <div align="left" display="flex"> 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
