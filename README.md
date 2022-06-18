@@ -6,7 +6,7 @@
   </h2>
   
   <div align= "left">
-  <h3><img src="https://media.giphy.com/media/XptgNeALeb9PPYeX6M/giphy.gif" width="50"> A little bit about me...  </h3>
+  <h2>A little bit about me...</h2>
   
   ```javascript
   const aman = {
@@ -32,6 +32,7 @@
   ```
   </div>  
   
+  <img src="https://media.giphy.com/media/XptgNeALeb9PPYeX6M/giphy.gif" width="50">
   
   <div align="left">
       <h3>Let's Connect</h3>
