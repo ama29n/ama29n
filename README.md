@@ -17,13 +17,14 @@
       askMeAbout: ["Web Development", "MERN", "Tech", "Data Structures", "Algorithms"],
       technologies: {
           frontEnd: {
-              css: ["Bootstrap 4", "Tailwind 3.1", "Material UI"] ,
+              css: ["Tailwind 3.1", "Material UI"] ,
               javascript: ["React"]
           },
           backEnd: {
               nodeJs: ["Express"]
           },
-          databases: ["MongoDB", "MySQL"]
+          databases: ["MongoDB", "MySQL"],
+          tools: ["Firebase", "GIT", "Postman"]
       },
       currentFocus: "To be a good developer",
       hobbies: ["badminton", "reading", "psychology"],
