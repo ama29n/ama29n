@@ -11,14 +11,15 @@
   ```javascript
   const aman = {
       pronouns: "He" | "Him",
-      age: "20 y.o.",
+      age: "21 y.o.",
       city: "New Delhi, India",
-      code: ["C", "C++", "JavaScript"],
-      askMeAbout: ["Web Development", "MERN", "Tech", "Data Structures", "Algorithms"],
+      code: ["C", "C++", "JavaScript", "Java"],
+      askMeAbout: ["Web Development", "MERN", "Technology", "Data Structures", "Algorithms"],
       technologies: {
           frontEnd: {
+              html: true,
               css: ["Tailwind 3.1", "Material UI"] ,
-              javascript: ["React"]
+              javascript: ["ReactJs", "NextJs"]
           },
           backEnd: {
               nodeJs: ["Express"]
@@ -27,7 +28,7 @@
           tools: ["Firebase", "GIT", "Postman"]
       },
       currentFocus: "To be a good developer",
-      hobbies: ["badminton", "reading", "psychology"],
+      hobbies: ["badminton", "reading", "studying psychology"],
       funFact: "I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow"
   };
   ```
