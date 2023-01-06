@@ -29,7 +29,7 @@
       },
       currentFocus: "To be a good developer",
       hobbies: ["badminton", "reading", "studying psychology"],
-      funFact: "I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow"
+      funFact: "I have a Engineering background, but most of the credit goes to Google and Stack Overflow"
   };
   ```
   </div>  
