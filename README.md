@@ -39,7 +39,7 @@
   <div align="left">
       <h3>Let's Connect</h3>
       <div>
-          <a href="https://linkedin.com/in/amandeep-singh-3105b9207">
+          <a href="https://linkedin.com/in/ama29n">
               <img align="left" width="26px"
                   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
           </a>
