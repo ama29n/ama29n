@@ -54,6 +54,10 @@
               <img align="left" width="26px"
                   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
           </a>
+          <a href="https://twitter.com/ama29n">
+              <img align="left" width="26px"
+                  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+          </a>
       </div>
   </div>
   
