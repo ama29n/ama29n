@@ -11,9 +11,9 @@
   ```javascript
   const aman = {
       pronouns: "He" | "Him",
-      age: "21 y.o.",
+      age: "22 y.o.",
       city: "New Delhi, India",
-      code: ["C", "C++", "JavaScript", "Java"],
+      code: ["C", "C++", "JavaScript"],
       askMeAbout: ["Web Development", "MERN", "Technology", "Data Structures", "Algorithms"],
       technologies: {
           frontEnd: {
@@ -37,22 +37,14 @@
   <img src="https://media.giphy.com/media/XptgNeALeb9PPYeX6M/giphy.gif" width="50">
   
   <div align="left">
-      <h3>Let's Connect</h3>
+      <h2>Let's Connect</h2>
       <div>
-          <a href="https://linkedin.com/in/ama29n">
-              <img align="left" width="26px"
-                  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-          </a>
-          <a href="https://www.leetcode.com/ama29n">
-              <img align="left" width="26px"
-                  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
-          </a>
           <a href="mailto:ama3149n@gmail.com">
               <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
           </a>
-          <a href="https://instagram.com/ama29n">
+          <a href="https://linkedin.com/in/ama29n">
               <img align="left" width="26px"
-                  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+                  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
           </a>
           <a href="https://twitter.com/ama29n">
               <img align="left" width="26px"
@@ -63,26 +55,6 @@
   
   
   <br>
-  <br>
-  
-  
-  <div> 
-  <h3>Languages and Tools</h3>
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  </div>
-  
   <br>
   
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ama29n)](https://github.com/anuraghazra/github-readme-stats) -->
